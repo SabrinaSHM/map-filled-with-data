@@ -1,0 +1,11 @@
+
++------------------------------------------------------+
+|    Objet : Réaliser une carte météo    |
++------------------------------------------------------+
+
+Contenu de base : flux météo (json ou xml, au choix).
+
+Objectif : 
+Disposer ces informations sur une carte de l'île de la Réunion de manière simple et intuitive.
+
+
